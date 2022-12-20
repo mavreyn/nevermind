@@ -1,0 +1,18 @@
+games: List[
+    Dict{
+        completed_in: Int,
+        moves: List[
+            {
+                possibility: Int,
+                colors: List[String]
+                pins: List[String?]
+            }
+        ]
+    }
+]
+average_turn_count: Float,
+minimum_turn_count: Int,
+maximum_turn_count: Int,
+
+colors: "White", "Orange", "Purple", "Fuchsia", "Green", "Yellow"
+pins: "Red", "White", None

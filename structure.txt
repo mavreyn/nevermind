@@ -1,0 +1,9 @@
+games: List[
+    Dict{
+        completed_in: Int,
+        move_possibilities: List[Int]
+    }
+]
+average_turn_count: Float,
+minimum_turn_count: Int,
+maximum_turn_count: Int,
