@@ -1,8 +1,0 @@
-{'possibility': 1296, 'colors': ['Green', 'White', 'Orange', 'White'], 'pins': ['Red', 'Red', None, None]}
-{'possibility': 105, 'colors': ['Orange', 'Orange', 'Orange', 'White'], 'pins': ['Red', None, None, None]}
-{'possibility': 48, 'colors': ['Fuchsia', 'White', 'Fuchsia', 'White'], 'pins': ['Red', 'Red', None, None]}
-{'possibility': 12, 'colors': ['Green', 'Green', 'Fuchsia', 'White'], 'pins': ['Red', None, None, None]}
-{'possibility': 9, 'colors': ['Purple', 'White', 'Yellow', 'White'], 'pins': ['Red', 'Red', 'Red', None]}
-{'possibility': 4, 'colors': ['Purple', 'White', 'Purple', 'White'], 'pins': ['Red', 'Red', None, None]}
-{'possibility': 2, 'colors': ['White', 'White', 'Yellow', 'White'], 'pins': ['Red', 'Red', 'Red', None]}
-{'possibility': 1, 'colors': ['Yellow', 'White', 'Yellow', 'White'], 'pins': ['Red', 'Red', 'Red', 'Red']}
